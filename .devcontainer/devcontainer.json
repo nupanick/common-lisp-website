@@ -1,0 +1,5 @@
+{
+    "name": "Common Lisp",
+    "image": "docker.io/daewok/lisp-devel:ql",
+    "forwardPorts": [ 8000 ]
+}
