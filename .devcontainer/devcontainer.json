@@ -1,5 +1,5 @@
 {
     "name": "Common Lisp",
     "build": { "dockerfile": "Dockerfile" },
-    "forwardPorts": [ 8000 ]
+	"appPort": [ "8001:8000" ]
 }
